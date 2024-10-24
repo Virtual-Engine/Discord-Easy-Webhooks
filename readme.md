@@ -18,7 +18,7 @@
 - Install the required dependencies.
 
 ```js
-npm install
+npm i discord-easy-webhook
 ```
 
 # Usage
