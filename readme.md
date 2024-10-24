@@ -1,6 +1,6 @@
 # Discord-Easy-Webhooks
 
-- Webhook Manager is a Node.js module designed to manage and interact with webhooks. It provides convenient methods to send messages, embeds, files, and other types of interactions through webhooks.
+- Discord-Easy-Webhooks is a Node.js module designed to manage and interact with webhooks. It provides convenient methods to send messages, embeds, files, and other types of interactions through webhooks.
 
 # Features
 - ***Send a message***: Send a simple text message to a webhook.
