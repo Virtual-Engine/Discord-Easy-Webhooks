@@ -26,7 +26,7 @@ npm install
 - Import the module
 
 ```js
-const WebhookManager = require('./webhookManager');
+const WebhookManager = require('discord-easy-webhook');
 const manager = new WebhookManager();
 ```
 
