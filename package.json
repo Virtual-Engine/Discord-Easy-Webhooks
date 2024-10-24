@@ -1,0 +1,32 @@
+{
+  "name": "discord-easy-webhook",
+  "version": "1.0.3",
+  "description": "Discord webhook manager for sending messages, embeds, files",
+  "main": "manager.js",
+  "scripts": {
+    "start": "node manager.js"
+  },
+  "files": [
+    "method/*",
+    "checker.js",
+    "manager.js",
+    "readme.md"
+  ],
+  "keywords": [
+    "webhooks",
+    "discord",
+    "hooks",
+    "hooking"
+  ],
+  "author": "Zenith",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenith-engine/discord-easy-webhook.git"
+  },
+  "homepage": "https://github.com/zenith-engine/discord-easy-webhook",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "form-data": "^4.0.0",
+    "nyx-logger": "^3.0.0"
+  }
+}
